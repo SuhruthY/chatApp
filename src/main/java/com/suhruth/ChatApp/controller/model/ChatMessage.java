@@ -1,4 +1,4 @@
-package com.suhruth.ChatApp.controller;
+package com.suhruth.ChatApp.controller.model;
 
 public class ChatMessage {
 

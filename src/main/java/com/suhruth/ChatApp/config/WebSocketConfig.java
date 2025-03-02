@@ -1,4 +1,4 @@
-package com.suhruth.ChatApp;
+package com.suhruth.ChatApp.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;
