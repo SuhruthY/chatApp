@@ -2,6 +2,7 @@
 
 ## 📌 Introduction
 ChatApp is a real-time web chat application built with **Spring Boot**, **WebSockets**, and **STOMP** for backend communication, along with a **Bootstrap & JavaScript** frontend. This application enables users to exchange messages in real-time using WebSockets.
+
 ![chat-app test](https://github.com/SuhruthY/chatApp/blob/master/ChatAppTest.png)
 
 ## 🚀 Features
